@@ -4,4 +4,4 @@ Translating from Oxford Glycan Notation to Glycosuite 14 Digit Composition: beca
 
 # Relevant XKCD
 
-.center[![Right-aligned image](https://imgs.xkcd.com/comics/standards.png)]
+.right[![Right-aligned image](https://imgs.xkcd.com/comics/standards.png)]
