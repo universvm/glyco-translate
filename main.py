@@ -19,30 +19,33 @@
 # if n > 9: number with , eg 14,8888888888888
 
 table = open('table1.csv', 'r')
-
+glycosuite = ""
 def translator(oxglycan):
     "Receives glycans in Oxford Format and translates them into Glycosuite 14"
     for g in oxglycan:
-        if "core" in g: #otherwise it will be split
+        if "core F" in g: #otherwise it will be split
+            g = "32100000000000"
             print(g)
         else:
             g1 = g.rsplit(' ', 1)
-            # print(g1)
+            print(g1)
             if "Man" in g1[0]:
                 man = g1[0].split("Man") #splitting by Man to get a list
                 # print(man)
-                if "-" in man[1]:
+                if "-" in man[1]: # if there is a range
                     num = man[1].split("-")
-                    range1 = num[0]
-                    range2 = num[1]
-                    print(range1,range2)
-            #     else:
-            #         print(man)
-            #         print(int(man[1]))
-            # elif "Hy" in g:
-            #     print(g)
-            # else:
-            #     print("g")
+                    num[0] += "0" *(14 -len(num[0]))
+                    num[1] += "0" *(14 -len(num[1]))
+                    print(num[0]);print(num[1])
+                else: #else man[1] is a single integer
+                    man[1] += "0" *(14 -len(man[1]))
+                    print(man[1])
+            # elif "M" in g:
+                #
+            elif "Hy" in g:
+                print("53000000000000")
+            else:
+                print(g1[0])
         # if "Man" or "Hy" not in g:
         #     print(g)
         # else:
