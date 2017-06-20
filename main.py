@@ -38,6 +38,6 @@ def translator(oxglycan):
 
 for line in table:
     line = line.split(",")
-    glycans = ''.join([x for x in line[7] if ord(x) < 128]) #Thanks oh kind stranger http://snipplr.com/view/57881/
+    glycans = ''.join([x for x in line[7] if ord(x) < 128]) #Thanks to: http://snipplr.com/view/57881/
     glycans = glycans.split(";")
     translator(glycans)
