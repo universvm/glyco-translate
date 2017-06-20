@@ -1,23 +1,23 @@
 Glycoprotein,Uniprot number,Function,Plasma concentration range (mg/mL),Avg. plasma concentration (mg/mL),N-glycosylation sites,Site occupancy (%),Glycan species,Changes under disease or inflammation,Changes with age,Glycosylation references (numbered)
-Alpha-1-acid glycoprotein,P02763; P19652,Transport of lipophilic compounds,0.36Ð1.46,0.77,Overall,,A3G3S3 (33.5Ê%); A4G4S4 (19.5Ê%); A3FG3S3 (9Ê%); A4G4S3 (8.2Ê%); A3G3S2 (5Ê%); A2G2S2 (4.5Ê%); A4G4S2 (4Ê%); A4FG4S4 (2.5Ê%),"Conc_, F_, S_",Conc_ for females,"[44,Ê45,Ê46,Ê47,Ê48,Ê49,Ê50,Ê51]"
-,,,,,Asn33,,A3G3S3 (60Ê%); A3FG3S3 (20Ê%); A3G3S2 (12.5Ê%),,,
-,,,,,Asn56,,A3G3S3 (55Ê%); A2G2S2 (22.5Ê%); A3FG3S3 (12.5Ê%); A3G3S2 (10 %);,,,
-,,,,,Asn72,,A4G4S4 (30Ê%); A4G4S3 (15Ê%); A3G3S3 (15Ê%); A4G4S2 (10Ê%); A4FG4S3 (5Ê%); A4FG4S4 (5Ê%),,,
-,,,,,Asn93,,A4G4S4 (22.5Ê%); A4G4S3 (20Ê%); A3G3S3 (17.5Ê%); A4FG4S4 (7.5Ê%); A4FG3S3 (7.5Ê%); A3FG3S3 (7.5Ê%); A4G4S2 (7.5Ê%),,,
-,,,,,Asn103,,A4G4S4 (45Ê%); A3G3S3 (20Ê%); A4G4S2 (10Ê%); A4G4S3 (7.5Ê%); A3FG3S3 (5Ê%),,,
-Alpha-1-antitripsin,P01009,Serine protease inhibitor,1.1,1.1,Overall,,A2G2S2 (81Ê%); A3G3S3 (9.8Ê%); A3FG3S3 (5.6Ê%); FA2G2S2 (3.6Ê%),"Conc_, complex",Glycosylation_ except A2G1 and A3FG2S2_,"[52,Ê53,Ê54,Ê55,Ê56,Ê57]"
-,,,,,Asn70,,A2G2S2 (91.3Ê%); FA2G2S2 (8.6Ê%),,,
-,,,,,Asn107,,A2G2S2 (52.5Ê%); A3G3S3 (29.5Ê%); A3FG3S3 (16.7Ê%); FA2G2S2 (1.5Ê%),,,
-,,,,,Asn271,,A2G2S2 (99.3Ê%); FA2G2S2 (0.7Ê%),,,
-Alpha-1B-glycoprotein,P04217,"Uncertain, likely inflammation",0.22,0.22,Overall,,A2G2S1 (100Ê%),,,"[58,Ê59,Ê60,Ê61,Ê62]"
+Alpha-1-acid glycoprotein,P02763; P19652,Transport of lipophilic compounds,0.36ï¿½1.46,0.77,Overall,,A3G3S3 (33.5ï¿½%); A4G4S4 (19.5ï¿½%); A3FG3S3 (9ï¿½%); A4G4S3 (8.2ï¿½%); A3G3S2 (5ï¿½%); A2G2S2 (4.5ï¿½%); A4G4S2 (4ï¿½%); A4FG4S4 (2.5ï¿½%),"Conc_, F_, S_",Conc_ for females,"[44,ï¿½45,ï¿½46,ï¿½47,ï¿½48,ï¿½49,ï¿½50,ï¿½51]"
+,,,,,Asn33,,A3G3S3 (60ï¿½%); A3FG3S3 (20ï¿½%); A3G3S2 (12.5ï¿½%),,,
+,,,,,Asn56,,A3G3S3 (55ï¿½%); A2G2S2 (22.5ï¿½%); A3FG3S3 (12.5ï¿½%); A3G3S2 (10%); ,,,
+,,,,,Asn72,,A4G4S4 (30ï¿½%); A4G4S3 (15ï¿½%); A3G3S3 (15ï¿½%); A4G4S2 (10ï¿½%); A4FG4S3 (5ï¿½%); A4FG4S4 (5ï¿½%),,,
+,,,,,Asn93,,A4G4S4 (22.5ï¿½%); A4G4S3 (20ï¿½%); A3G3S3 (17.5ï¿½%); A4FG4S4 (7.5ï¿½%); A4FG3S3 (7.5ï¿½%); A3FG3S3 (7.5ï¿½%); A4G4S2 (7.5ï¿½%),,,
+,,,,,Asn103,,A4G4S4 (45ï¿½%); A3G3S3 (20ï¿½%); A4G4S2 (10ï¿½%); A4G4S3 (7.5ï¿½%); A3FG3S3 (5ï¿½%),,,
+Alpha-1-antitripsin,P01009,Serine protease inhibitor,1.1,1.1,Overall,,A2G2S2 (81ï¿½%); A3G3S3 (9.8ï¿½%); A3FG3S3 (5.6ï¿½%); FA2G2S2 (3.6ï¿½%),"Conc_, complex",Glycosylation_ except A2G1 and A3FG2S2_,"[52,ï¿½53,ï¿½54,ï¿½55,ï¿½56,ï¿½57]"
+,,,,,Asn70,,A2G2S2 (91.3ï¿½%); FA2G2S2 (8.6ï¿½%),,,
+,,,,,Asn107,,A2G2S2 (52.5ï¿½%); A3G3S3 (29.5ï¿½%); A3FG3S3 (16.7ï¿½%); FA2G2S2 (1.5ï¿½%),,,
+,,,,,Asn271,,A2G2S2 (99.3ï¿½%); FA2G2S2 (0.7ï¿½%),,,
+Alpha-1B-glycoprotein,P04217,"Uncertain, likely inflammation",0.22,0.22,Overall,,A2G2S1 (100ï¿½%),,,"[58,ï¿½59,ï¿½60,ï¿½61,ï¿½62]"
 ,,,,,Asn44,,,,,
 ,,,,,Asn179,,,,,
-,,,,,Asn363,,A2G2S1 (100Ê%),,,
+,,,,,Asn363,,A2G2S1 (100ï¿½%),,,
 ,,,,,Asn371,,,,,
-Alpha-2-HS-glycoprotein,P02765,"Phosphate and calcium scavenger, metalloprotease protection",0.3Ð0.6,0.45,Overall,,A2G2S2 (96Ê%); FA2G2S2 (4Ê%),"Conc_, (F)A3G3S3_, A2G2S2_",,"[63,Ê64,Ê65,Ê66,Ê67,Ê68]"
+Alpha-2-HS-glycoprotein,P02765,"Phosphate and calcium scavenger, metalloprotease protection",0.3ï¿½0.6,0.45,Overall,,A2G2S2 (96ï¿½%); FA2G2S2 (4ï¿½%),"Conc_, (F)A3G3S3_, A2G2S2_",,"[63,ï¿½64,ï¿½65,ï¿½66,ï¿½67,ï¿½68]"
 ,,,,,Asn156,,,Glycosylation __,,
 ,,,,,Asn176,,,,,
-Alpha-2-macrogobulin,P01023,Protease scavenger,1Ð2,1.2,Overall,,A2G2S2 (35Ê%); A2G2S1 (35Ê%); FA2G2S2 (15Ê%); FA2G2S1 (15Ê%); M5-7 (8Ê%),"General _, Man_, G_",,"[59,Ê60,Ê67,Ê69,Ê70,Ê71,Ê72,Ê73,Ê74]"
+Alpha-2-macrogobulin,P01023,Protease scavenger,1ï¿½2,1.2,Overall,,A2G2S2 (35ï¿½%); A2G2S1 (35ï¿½%); FA2G2S2 (15ï¿½%); FA2G2S1 (15ï¿½%); M5-7 (8ï¿½%),"General _, Man_, G_",,"[59,ï¿½60,ï¿½67,ï¿½69,ï¿½70,ï¿½71,ï¿½72,ï¿½73,ï¿½74]"
 ,,,,,Asn55,,A2G2S2; FA2G2S2,,,
 ,,,,,Asn70,,A2G2S2,,,
 ,,,,,Asn247,,A2G2S2,,,
@@ -26,20 +26,20 @@ Alpha-2-macrogobulin,P01023,Protease scavenger,1Ð2,1.2,Overall,,A2G2S2 (35Ê%); A
 ,,,,,Asn869,,Man5-7,,,
 ,,,,,Asn991,,A2G2S2,,,
 ,,,,,Asn1424,,A2G2S2; FA2G2S2,,,
-Antithrombin-III,P01008,"Serine protease inhibitor, coagulation",0.15,0.15,Overall,,A2G2S2 (85Ê%); A2G2S1 (15Ê%),"Conc_ (thrombosis), FA_",,"[75,Ê76,Ê77,Ê78,Ê79,Ê80,Ê81,Ê82,Ê83,Ê84,Ê85,Ê86]"
+Antithrombin-III,P01008,"Serine protease inhibitor, coagulation",0.15,0.15,Overall,,A2G2S2 (85ï¿½%); A2G2S1 (15ï¿½%),"Conc_ (thrombosis), FA_",,"[75,ï¿½76,ï¿½77,ï¿½78,ï¿½79,ï¿½80,ï¿½81,ï¿½82,ï¿½83,ï¿½84,ï¿½85,ï¿½86]"
 ,,,,,Asn128,,A2G2S2; A2G2S1,,,
 ,,,,,Asn167,,A2G2S2; A2G2S1; A3G3S3,,,
 ,,,,,Asn187,,A2G2S2; A2G2S1; FA2G2S2; A3G3S3,,,
 ,,,,,Asn224,,A2G2S2; A2G2S1; A3G3S2,,,
-Apolipoprotein B-100,P04114,Cholesterol transport (LDL),0.5,0.5,Overall,,A2G2S1 (29.2Ê%); A2G2S2 (23.6Ê%); Man9 (8.6Ê%); A2G2 (7.2Ê%); Man5 (6.9Ê%),,,"[11,Ê87,Ê88,Ê89,Ê90]"
-,,,,,Asn34,0Ê%,---,,,
+Apolipoprotein B-100,P04114,Cholesterol transport (LDL),0.5,0.5,Overall,,A2G2S1 (29.2ï¿½%); A2G2S2 (23.6ï¿½%); Man9 (8.6ï¿½%); A2G2 (7.2ï¿½%); Man5 (6.9ï¿½%),,,"[11,ï¿½87,ï¿½88,ï¿½89,ï¿½90]"
+,,,,,Asn34,0ï¿½%,---,,,
 ,,,,,Asn185,,Man5-9,,,
 ,,,,,Asn983,,A2G2S1; A2G2S2,,,
 ,,,,,Asn1368,,Man5-9,,,
 ,,,,,Asn1377,,Man5-9,,,
 ,,,,,Asn1523,,Man5-9; Hy; A1G1S1; A2G2S1; A2G2S2,,,
 ,,,,,Asn2239,,A2G2S1; A2G2S2,,,
-,,,,,Asn2560,0Ê%,---,,,
+,,,,,Asn2560,0ï¿½%,---,,,
 ,,,,,Asn2779,,A2G2S1; A2G2S2,,,
 ,,,,,Asn2982,,A2G2S1; A2G2S2,,,
 ,,,,,Asn3101,,A2G2S1; A2G2S2,,,
@@ -51,93 +51,93 @@ Apolipoprotein B-100,P04114,Cholesterol transport (LDL),0.5,0.5,Overall,,A2G2S1 
 ,,,,,Asn3895,,A2G2S2; A3G3S3,,,
 ,,,,,Asn4237,,A2G2S1; A2G2S2,,,
 ,,,,,Asn4431,,A2G2S1; A2G2S2,,,
-Apolipoprotein D,P05090,Cholesterol transport (HDL),0.1,0.1,Overall,,A2FG2S2; A3G3S3,Conc_,Conc_(Females),"[59,Ê60,Ê62,Ê67,Ê91,Ê92,Ê93]"
-,,,,,Asn65,,A2G2S2; A3G3S2;ÊA3G3S3; A4G4S4,,,
-,,,,,Asn98,,A2G2FS1; A2G2S2;ÊA2FG2S2; A3FG3S2; A3FG3S3; A4FG4S3,,,
-Apolipoprotein F,Q13790,Cholesterol transport (VLDL),0.073Ð0.096 (F-M),0.0845,Overall,,,,,"[94,Ê95,Ê96]"
+Apolipoprotein D,P05090,Cholesterol transport (HDL),0.1,0.1,Overall,,A2FG2S2; A3G3S3,Conc_,Conc_(Females),"[59,ï¿½60,ï¿½62,ï¿½67,ï¿½91,ï¿½92,ï¿½93]"
+,,,,,Asn65,,A2G2S2; A3G3S2; ï¿½A3G3S3; A4G4S4,,,
+,,,,,Asn98,,A2G2FS1; A2G2S2; ï¿½A2FG2S2; A3FG3S2; A3FG3S3; A4FG4S3,,,
+Apolipoprotein F,Q13790,Cholesterol transport (VLDL),0.073ï¿½0.096 (F-M),0.0845,Overall,,,,,"[94,ï¿½95,ï¿½96]"
 ,,Proprotein,,,Asn118,,Man5-9,,,
 ,,Proprotein,,,Asn139,,Man5-9,,,
 ,,,,,Asn267,,,,,
-Beta-2-glycoprotein 1,P02749,Scavenger of negatively charged compounds,0.2,0.2,Overall,,A2G2S2 (58Ê%); A3G3S3 (28.5Ê%); A2G2S1 (6.5Ê%); A3G3S2 (5Ê%),"Conc_, A3S_, A2G2S2_",Conc_,"[59,Ê97,Ê98,Ê99,Ê100,Ê101,Ê102]"
-,,,,,Asn162,,A2G2S2 (67Ê%); A3G3S3 (22Ê%); A2G2S1 (5Ê%); A3G3S2 (3Ê%),"A3_, A2_",,
+Beta-2-glycoprotein 1,P02749,Scavenger of negatively charged compounds,0.2,0.2,Overall,,A2G2S2 (58ï¿½%); A3G3S3 (28.5ï¿½%); A2G2S1 (6.5ï¿½%); A3G3S2 (5ï¿½%),"Conc_, A3S_, A2G2S2_",Conc_,"[59,ï¿½97,ï¿½98,ï¿½99,ï¿½100,ï¿½101,ï¿½102]"
+,,,,,Asn162,,A2G2S2 (67ï¿½%); A3G3S3 (22ï¿½%); A2G2S1 (5ï¿½%); A3G3S2 (3ï¿½%),"A3_, A2_",,
 ,,,,,Asn183,,A2; A3,,,
-,,,,,Asn193,,A2G2S2 (49Ê%); A3G3S3 (35Ê%); A2G2S1 (8Ê%); A3G3S2 (7Ê%),"A3_, A2_",,
+,,,,,Asn193,,A2G2S2 (49ï¿½%); A3G3S3 (35ï¿½%); A2G2S1 (8ï¿½%); A3G3S2 (7ï¿½%),"A3_, A2_",,
 ,,,,,Asn253,,A2; A3,,,
-Ceruloplasmin,P00450,Copper dependent iron oxidation (Fe2+ to Fe3+),0.15Ð0.96,0.355,Overall,,A2G2S2 (62.75Ê%); FA2G2S2 (14.5Ê%); A3G3S3 (13.5Ê%); A3G3FS3 (7.25Ê%),Conc_,,"[59,Ê103,Ê104,Ê105]"
-,,,,,Asn138,,A2G2S2Ê(49Ê%); FA2G2S2 (26Ê%); A3G3S3 (12Ê%); A3FG3S3 (10Ê%); FA3FG3S3 (3Ê%),,,
-,,,,,Asn227,0Ê%,---,,,
-,,,,,Asn358,,A2G2S2Ê(83Ê%); FA2G2S2 (12Ê%); A3G3S3 (5Ê%),,,
-,,,,,Asn397,,A2G2S2Ê(73Ê%); A3G3S3 (17Ê%); A3FG3S3 (6Ê%); FA2G2S2 (4Ê%),,,
+Ceruloplasmin,P00450,Copper dependent iron oxidation (Fe2+ to Fe3+),0.15ï¿½0.96,0.355,Overall,,A2G2S2 (62.75ï¿½%); FA2G2S2 (14.5ï¿½%); A3G3S3 (13.5ï¿½%); A3G3FS3 (7.25ï¿½%),Conc_,,"[59,ï¿½103,ï¿½104,ï¿½105]"
+,,,,,Asn138,,A2G2S2ï¿½(49ï¿½%); FA2G2S2 (26ï¿½%); A3G3S3 (12ï¿½%); A3FG3S3 (10ï¿½%); FA3FG3S3 (3ï¿½%),,,
+,,,,,Asn227,0ï¿½%,---,,,
+,,,,,Asn358,,A2G2S2ï¿½(83ï¿½%); FA2G2S2 (12ï¿½%); A3G3S3 (5ï¿½%),,,
+,,,,,Asn397,,A2G2S2ï¿½(73ï¿½%); A3G3S3 (17ï¿½%); A3FG3S3 (6ï¿½%); FA2G2S2 (4ï¿½%),,,
 ,,,,,Asn588,,---,,,
-,,,,,Asn762,,A2G2S2Ê(46Ê%); A3G3S3 (20Ê%); FA2G2S2 (16Ê%); A3FG3S3 (13Ê%); FA3FG3S3 (2Ê%); A4G4S4 (1Ê%); A4FG4S4 (1Ê%),,,
-,,,,,Asn926,0Ê%,---,,,
-Fibrinogen,,Coagulation (platelet aggregation),2.0Ð4.5,3,Overall,,A2G2S1(6) (53Ê%); A2G2S2(6) (33Ê%),,,"[59,Ê60,Ê67,Ê70,Ê106,Ê107,Ê108,Ê109,Ê110,Ê111,Ê112,Ê113,Ê114,Ê115,Ê116,Ê117]"
-Fibrinogen alpha-chain,P02671,,,,Asn453,0Ê%,---,,,
-,,,,,Asn686,0Ê%,---,,,
+,,,,,Asn762,,A2G2S2ï¿½(46ï¿½%); A3G3S3 (20ï¿½%); FA2G2S2 (16ï¿½%); A3FG3S3 (13ï¿½%); FA3FG3S3 (2ï¿½%); A4G4S4 (1ï¿½%); A4FG4S4 (1ï¿½%),,,
+,,,,,Asn926,0ï¿½%,---,,,
+Fibrinogen,,Coagulation (platelet aggregation),2.0ï¿½4.5,3,Overall,,A2G2S1(6) (53ï¿½%); A2G2S2(6) (33ï¿½%),,,"[59,ï¿½60,ï¿½67,ï¿½70,ï¿½106,ï¿½107,ï¿½108,ï¿½109,ï¿½110,ï¿½111,ï¿½112,ï¿½113,ï¿½114,ï¿½115,ï¿½116,ï¿½117]"
+Fibrinogen alpha-chain,P02671,,,,Asn453,0ï¿½%,---,,,
+,,,,,Asn686,0ï¿½%,---,,,
 Fibrinogen beta-chain,P02675,,,,Asn394,,A2G2S1(6); A2G2S2(6),,,
 Fibrinogen gamma-chain,P02679,,,,Asn78,,A2G2S1(6); A2G2S2(6),,,
 ,,,,,Asn334,,A2G2S1(6); A2G2S2(6),Glycosylation_ in mutants,,
-Haptoglobin,P00738,Scavenger of hemoglobin,0.8Ð2.5,1.32,Overall,,A2G2S2 (45Ê%); A2G2S1 (26Ê%); A3G3S3 (9Ê%); A3FG3S3 (6Ê%); A3G3S2 (5Ê%); A3G3S1 (5Ê%); A2FG2S1 (2Ê%); A2FG2S2 (1Ê%);,"Conc_, glycosylation complex, branching_, F_",,"[13,Ê118,Ê119,Ê120,Ê121,Ê122,Ê123,Ê124,Ê125,Ê126]"
-,,,,,Asn184,97.7Ê%,A2G2S2 (46Ê%); A2G2S1 (38Ê%); A3G3S3 (4Ê%); A3G3S2 (3Ê%); A3G3S1 (2Ê%); A2FG2S2 (3Ê%); A2FG2S1 (3Ê%); A3FG3S3 (1Ê%),,,
-,,,,,Asn207,97.4Ê%,A2G2S2 (47Ê%); A2G2S1 (39Ê%); A3G3S1 (7Ê%); A4G4S1 (2Ê%); A3FG3S1 (2Ê%); A4G4S2 (1Ê%); A2FG2S1 (1Ê%); A2FG2S2 (1Ê%),S_,,
-,,,,,Asn211,98.5Ê%,"A2G2S2 (40Ê%); A3G3S3 (29Ê%), A3FG3S3 (21Ê%); A3G3S2 (10Ê%)",S_,,
-,,,,,Asn241,95.8Ê%,A2G2S2 (47Ê%); A2G2S1 (26Ê%); A3G3S1 (10Ê%); A3G3S2 (8Ê%); A3G3S3 (4Ê%); A2FG2S1 (2Ê%); A2FG2S2 (1Ê%); A3FG3S2 (1Ê%); A4G4S1 (1Ê%);,,,
-Hemopexin,P02790,HemeÊscavenger,0.4Ð1.5,0.8,Overall,,A2G2S2 (90Ê%); FA2G2S2 (5Ê%),"Conc_, Antennarity_, F_",Conc_,"[59,Ê60,Ê62,Ê67,Ê68,Ê70,Ê121,Ê127,Ê128,Ê129,Ê130,Ê131,Ê132,Ê133,Ê134]"
-,,,,,Asn64,,A2G2S2(6) (90Ê%); FA2G2S2 (5Ê%),,,
-,,,,,Asn187,,A2G2S2(6) (90Ê%); FA2G2S2 (5Ê%),,,
+Haptoglobin,P00738,Scavenger of hemoglobin,0.8ï¿½2.5,1.32,Overall,,A2G2S2 (45ï¿½%); A2G2S1 (26ï¿½%); A3G3S3 (9ï¿½%); A3FG3S3 (6ï¿½%); A3G3S2 (5ï¿½%); A3G3S1 (5ï¿½%); A2FG2S1 (2ï¿½%); A2FG2S2 (1ï¿½%); ,"Conc_, glycosylation complex, branching_, F_",,"[13,ï¿½118,ï¿½119,ï¿½120,ï¿½121,ï¿½122,ï¿½123,ï¿½124,ï¿½125,ï¿½126]"
+,,,,,Asn184,97.7ï¿½%,A2G2S2 (46ï¿½%); A2G2S1 (38ï¿½%); A3G3S3 (4ï¿½%); A3G3S2 (3ï¿½%); A3G3S1 (2ï¿½%); A2FG2S2 (3ï¿½%); A2FG2S1 (3ï¿½%); A3FG3S3 (1ï¿½%),,,
+,,,,,Asn207,97.4ï¿½%,A2G2S2 (47ï¿½%); A2G2S1 (39ï¿½%); A3G3S1 (7ï¿½%); A4G4S1 (2ï¿½%); A3FG3S1 (2ï¿½%); A4G4S2 (1ï¿½%); A2FG2S1 (1ï¿½%); A2FG2S2 (1ï¿½%),S_,,
+,,,,,Asn211,98.5ï¿½%,"A2G2S2 (40ï¿½%); A3G3S3 (29ï¿½%), A3FG3S3 (21ï¿½%); A3G3S2 (10ï¿½%)",S_,,
+,,,,,Asn241,95.8ï¿½%,A2G2S2 (47ï¿½%); A2G2S1 (26ï¿½%); A3G3S1 (10ï¿½%); A3G3S2 (8ï¿½%); A3G3S3 (4ï¿½%); A2FG2S1 (2ï¿½%); A2FG2S2 (1ï¿½%); A3FG3S2 (1ï¿½%); A4G4S1 (1ï¿½%); ,,,
+Hemopexin,P02790,Hemeï¿½scavenger,0.4ï¿½1.5,0.8,Overall,,A2G2S2 (90ï¿½%); FA2G2S2 (5ï¿½%),"Conc_, Antennarity_, F_",Conc_,"[59,ï¿½60,ï¿½62,ï¿½67,ï¿½68,ï¿½70,ï¿½121,ï¿½127,ï¿½128,ï¿½129,ï¿½130,ï¿½131,ï¿½132,ï¿½133,ï¿½134]"
+,,,,,Asn64,,A2G2S2(6) (90ï¿½%); FA2G2S2 (5ï¿½%),,,
+,,,,,Asn187,,A2G2S2(6) (90ï¿½%); FA2G2S2 (5ï¿½%),,,
 ,,,,,Asn240,,,,,
 ,,,,,Asn246,,,,,
-,,,,,Asn453,,A2G2S2(6) (90Ê%); FA2G2S2 (5Ê%),,,
-Histdine-rich glycoprotein,P04196,"Immunity, coagulation andÊangiogenesis regulator",0.1Ð0.15,0.125,Overall,,A3-A4?,Conc_,Conc_,"[60,Ê70,Ê135,Ê136,Ê137,Ê138]"
+,,,,,Asn453,,A2G2S2(6) (90ï¿½%); FA2G2S2 (5ï¿½%),,,
+Histdine-rich glycoprotein,P04196,"Immunity, coagulation andï¿½angiogenesis regulator",0.1ï¿½0.15,0.125,Overall,,A3-A4,Conc_,Conc_,"[60,ï¿½70,ï¿½135,ï¿½136,ï¿½137,ï¿½138]"
 ,,,,,Asn63,,,,,
 ,,,,,Asn125,,,,,
 ,,,,,Asn344,,,,,
 ,,,,,Asn345,,,,,
-Kininogen-1,P01042,Coagulation,0.055Ð0.090,0.0725,Overall,,"A3-A4?, core F",Sialyl-Lewis X_,,"[59,Ê60,Ê62,Ê67,Ê70,Ê139,Ê140]"
+Kininogen-1,P01042,Coagulation,0.055ï¿½0.090,0.0725,Overall,,A3-A4, core F",Sialyl-Lewis X_,,"[59,ï¿½60,ï¿½62,ï¿½67,ï¿½70,ï¿½139,ï¿½140]"
 ,,,,,Asn48,,core F,,,
 ,,,,,Asn169,,,,,
 ,,,,,Asn205,,core F,,,
 ,,,,,Asn294,,core F,,,
-Serotransferrin,P02787,Iron transport,2Ð3,2.5,Overall,,A2G2S2 (96.5Ê%); FA2G2S2 (2.5Ê%); A3G3S2 (1Ê%),"Conc__ (pregnancy_, inflammation_), A3_(hepatoma), glycosylation changed (CDGs, alcohol_)",Conc_ (stable from 2yo),"[8,Ê59,Ê141,Ê142,Ê143,Ê144,Ê145,Ê146,Ê147,Ê148,Ê149,Ê150,Ê151]"
-,,,,,Asn432,,A2G2S2 (93.5Ê%); A3G3S2 (2.5Ê%); A2G2S1 (2.4Ê%); A2FG2S2 (1.6Ê%),,,
-,,Minor Asn-X-Cys site,,,Asn491,2Ê%,A2G2S2 (100Ê%),,,
-,,,,,Asn630,,A2G2S2 (85.9Ê%); FA2G2S2 (6.9Ê%); A2FG2S2 (2.8Ê%); A2G2S1 (2.2Ê%); A3G3S2 (1.0Ê%); FA3G3S2 (0.9Ê%); FA2FG2S2 (0.3Ê%),,,
-Vitronectin,P04004,"Cell adhesion, coagulation",0.2Ð0.4,0.3,Overall,,A2G2S2 (57Ê%); A3G3S3 (14.3Ê%); A3FG3S3 (10Ê%); A2G2S1 (8.7Ê%); Hy (6Ê%); FA2G2S2 (3.3Ê%),"Conc__ (inflammation_, liver fibrosis_), hybrid_(HCC), F_ (HCC)",,"[17,Ê59,Ê67,Ê70,Ê152,Ê153,Ê154]"
-,,,,,Asn86,,A2G2S2 (45Ê%); A3G3S3 (33Ê%); A3FG3S3 (20Ê%),,,
-,,,,,Asn169,,A2G2S2 (76Ê%); Hy (18Ê%); A2G2S1 (6Ê%),,,
-,,,,,Asn242,,A2G2S2 (50Ê%); A2G2S1 (20Ê%); FA2G2S2 (10Ê%); A3G3S3 (10Ê%); A3FG3S3 (10Ê%),,,
-Zinc-alpha-2-glycoprotein,P25311,Fat metabolism,0.05,0.05,Overall,,A2G2S2 (97Ê%); A2G2S1 (3Ê%),Conc_ (cancer),,"[59,Ê60,Ê67,Ê70,Ê96,Ê129,Ê155,Ê156,Ê157,Ê158]"
+Serotransferrin,P02787,Iron transport,2ï¿½3,2.5,Overall,,A2G2S2 (96.5ï¿½%); FA2G2S2 (2.5ï¿½%); A3G3S2 (1ï¿½%),"Conc__ (pregnancy_, inflammation_), A3_(hepatoma), glycosylation changed (CDGs, alcohol_)",Conc_ (stable from 2yo),"[8,ï¿½59,ï¿½141,ï¿½142,ï¿½143,ï¿½144,ï¿½145,ï¿½146,ï¿½147,ï¿½148,ï¿½149,ï¿½150,ï¿½151]"
+,,,,,Asn432,,A2G2S2 (93.5ï¿½%); A3G3S2 (2.5ï¿½%); A2G2S1 (2.4ï¿½%); A2FG2S2 (1.6ï¿½%),,,
+,,Minor Asn-X-Cys site,,,Asn491,2ï¿½%,A2G2S2 (100ï¿½%),,,
+,,,,,Asn630,,A2G2S2 (85.9ï¿½%); FA2G2S2 (6.9ï¿½%); A2FG2S2 (2.8ï¿½%); A2G2S1 (2.2ï¿½%); A3G3S2 (1.0ï¿½%); FA3G3S2 (0.9ï¿½%); FA2FG2S2 (0.3ï¿½%),,,
+Vitronectin,P04004,"Cell adhesion, coagulation",0.2ï¿½0.4,0.3,Overall,,A2G2S2 (57ï¿½%); A3G3S3 (14.3ï¿½%); A3FG3S3 (10ï¿½%); A2G2S1 (8.7ï¿½%); Hy (6ï¿½%); FA2G2S2 (3.3ï¿½%),"Conc__ (inflammation_, liver fibrosis_), hybrid_(HCC), F_ (HCC)",,"[17,ï¿½59,ï¿½67,ï¿½70,ï¿½152,ï¿½153,ï¿½154]"
+,,,,,Asn86,,A2G2S2 (45ï¿½%); A3G3S3 (33ï¿½%); A3FG3S3 (20ï¿½%),,,
+,,,,,Asn169,,A2G2S2 (76ï¿½%); Hy (18ï¿½%); A2G2S1 (6ï¿½%),,,
+,,,,,Asn242,,A2G2S2 (50ï¿½%); A2G2S1 (20ï¿½%); FA2G2S2 (10ï¿½%); A3G3S3 (10ï¿½%); A3FG3S3 (10ï¿½%),,,
+Zinc-alpha-2-glycoprotein,P25311,Fat metabolism,0.05,0.05,Overall,,A2G2S2 (97ï¿½%); A2G2S1 (3ï¿½%),Conc_ (cancer),,"[59,ï¿½60,ï¿½67,ï¿½70,ï¿½96,ï¿½129,ï¿½155,ï¿½156,ï¿½157,ï¿½158]"
 ,,,,,Asn109,,,,,
-,,,,,Asn112,,A2G2S2 (100Ê%),,,
-,,,,,Asn128,,A2G2S2 (100Ê%),,,
-,,,,,Asn259,,A2G2S2 (90Ê%); A2G2S1 (10Ê%),,,
-Immunoglobulin A,,Immunity (mucosal; FcaRI),2.62,2.62,Overall,,A2G2S2 (24Ê%); A2G2S1 (20Ê%); FA2BG2S2 (14Ê%),,,"[159,Ê160,Ê161,Ê162,Ê163,Ê164,Ê165]"
-IgA1,P01876,,,0.9,Asn144,,A2G2S1 (50Ê%); A2G2S2 (27Ê%); A2BG2S1 (10Ê%),,,
-,,,,,Asn340,,FA2G2S2 (46Ê%); FA2BG2S2 (40Ê%); FA2G2S1 (13Ê%),,,
+,,,,,Asn112,,A2G2S2 (100ï¿½%),,,
+,,,,,Asn128,,A2G2S2 (100ï¿½%),,,
+,,,,,Asn259,,A2G2S2 (90ï¿½%); A2G2S1 (10ï¿½%),,,
+Immunoglobulin A,,Immunity (mucosal; FcaRI),2.62,2.62,Overall,,A2G2S2 (24ï¿½%); A2G2S1 (20ï¿½%); FA2BG2S2 (14ï¿½%),,,"[159,ï¿½160,ï¿½161,ï¿½162,ï¿½163,ï¿½164,ï¿½165]"
+IgA1,P01876,,,0.9,Asn144,,A2G2S1 (50ï¿½%); A2G2S2 (27ï¿½%); A2BG2S1 (10ï¿½%),,,
+,,,,,Asn340,,FA2G2S2 (46ï¿½%); FA2BG2S2 (40ï¿½%); FA2G2S1 (13ï¿½%),,,
 IgA2,P01877,,,0.1,Asn47,,,,,
 ,,,,,Asn92,,,,,
 ,,,,,Asn131,,,,,
 ,,,,,Asn205,,,,,
 ,,,,,Asn327,,,,,
-Immunoglobulin D,P01880,Immunity,0.03; <0.003Ð0.4,0.035,Overall,,Man8 (14.4Ê%); Man9 (13.5Ê%); FA2G2S2 (7.6Ê%); FA2G2S1 (7.3Ê%); FA2BG2S2 (6.5Ê%); A2G2S1 (6.1Ê%),,,"[166,Ê167,Ê168,Ê169,Ê170]"
+Immunoglobulin D,P01880,Immunity,0.03; <0.003ï¿½0.4,0.035,Overall,,Man8 (14.4ï¿½%); Man9 (13.5ï¿½%); FA2G2S2 (7.6ï¿½%); FA2G2S1 (7.3ï¿½%); FA2BG2S2 (6.5ï¿½%); A2G2S1 (6.1ï¿½%),,,"[166,ï¿½167,ï¿½168,ï¿½169,ï¿½170]"
 ,,,,,Asn225,,Man8; Man9,,,
 ,,,,,Asn316,,FA2G2S2; FA2G2S1; FA2BG2S2; A2G2S1,,,
 ,,,,,Asn367,,FA2G2S2; FA2G2S1; FA2BG2S2; A2G2S1,,,
-Immunoglobulin E,P01854,Immunity (parasitic infection; allergy),0.0003,0.0003,Overall,,FA2G2S2 (25Ê%); FA2G2S1 (14.5Ê%); FA2BG2S2 (13.5Ê%); FA2BG2S1 (13.5Ê%); Man5 (8.5Ê%),"B_, A3_",,"[169,Ê171,Ê172,Ê173,Ê174,Ê175,Ê176]"
-,,,,,Asn21,,FA2G2S1 (30Ê%); FA2BG2S1 (30Ê%); FA2G2S2 (15Ê%); FA2BG2S2 (10Ê%),,,
-,,,,,Asn49,,FA2G2S2 (30Ê%); FA2G2S1 (18Ê%); FA2BG2S2 (15Ê%); FA2BG2S1 (15Ê%),,,
-,,,,,Asn99,,FA2G2S2 (40Ê%); FA2G2S1 (20Ê%),,,
-,,,,,Asn146,,FA2G2S2 (50Ê%); FA2BG2S2 (30Ê%); FA2G2S1 (10Ê%),,,
-,,,,,Asn252,,FA2BG2S1 (35Ê%); FA2BG2S2 (25Ê%); FA2G2S2 (15Ê%); FA2G2S1 (10Ê%),,,
+Immunoglobulin E,P01854,Immunity (parasitic infection; allergy),0.0003,0.0003,Overall,,FA2G2S2 (25ï¿½%); FA2G2S1 (14.5ï¿½%); FA2BG2S2 (13.5ï¿½%); FA2BG2S1 (13.5ï¿½%); Man5 (8.5ï¿½%),"B_, A3_",,"[169,ï¿½171,ï¿½172,ï¿½173,ï¿½174,ï¿½175,ï¿½176]"
+,,,,,Asn21,,FA2G2S1 (30ï¿½%); FA2BG2S1 (30ï¿½%); FA2G2S2 (15ï¿½%); FA2BG2S2 (10ï¿½%),,,
+,,,,,Asn49,,FA2G2S2 (30ï¿½%); FA2G2S1 (18ï¿½%); FA2BG2S2 (15ï¿½%); FA2BG2S1 (15ï¿½%),,,
+,,,,,Asn99,,FA2G2S2 (40ï¿½%); FA2G2S1 (20ï¿½%),,,
+,,,,,Asn146,,FA2G2S2 (50ï¿½%); FA2BG2S2 (30ï¿½%); FA2G2S1 (10ï¿½%),,,
+,,,,,Asn252,,FA2BG2S1 (35ï¿½%); FA2BG2S2 (25ï¿½%); FA2G2S2 (15ï¿½%); FA2G2S1 (10ï¿½%),,,
 ,,,,,Asn264,0,---,,,
-,,,,,Asn275,,Man5 (50Ê%); Man6 (15Ê%); Man7 (10Ê%); Man8 (10Ê%); Man9 (5Ê%),,,
-Immunoglobulin G,,Immunity (primary; secondary; complement system),7Ð18,11.8,Overall,,FA2G1 (31Ê%); FA2G2 (23Ê%); FA2G2S1 (13Ê%); FA2 (10Ê%); FA2BG1 (5Ê%),"Conc_(pregnancy), FA2_, FA2G2_(RA, CDÉ), G_ + S_(pregnancy), G_",G_,"[19,Ê20,Ê24,Ê28,Ê33,Ê177,Ê178,Ê179,Ê180,Ê181,Ê182,Ê183,Ê184,Ê185,Ê186,Ê187,Ê188,Ê189,Ê190,Ê191,Ê192,Ê193,Ê194,Ê195,Ê196,Ê197,Ê198,Ê199,Ê200]"
+,,,,,Asn275,,Man5 (50ï¿½%); Man6 (15ï¿½%); Man7 (10ï¿½%); Man8 (10ï¿½%); Man9 (5ï¿½%),,,
+Immunoglobulin G,,Immunity (primary; secondary; complement system),7ï¿½18,11.8,Overall,,FA2G1 (31ï¿½%); FA2G2 (23ï¿½%); FA2G2S1 (13ï¿½%); FA2 (10ï¿½%); FA2BG1 (5ï¿½%),"Conc_(pregnancy), FA2_, FA2G2_(RA, CDï¿½), G_ + S_(pregnancy), G_",G_,"[19,ï¿½20,ï¿½24,ï¿½28,ï¿½33,ï¿½177,ï¿½178,ï¿½179,ï¿½180,ï¿½181,ï¿½182,ï¿½183,ï¿½184,ï¿½185,ï¿½186,ï¿½187,ï¿½188,ï¿½189,ï¿½190,ï¿½191,ï¿½192,ï¿½193,ï¿½194,ï¿½195,ï¿½196,ï¿½197,ï¿½198,ï¿½199,ï¿½200]"
 Immunoglobulin G1,P01857,,5.03,5.03,Asn180,,,,,
 Immunoglobulin G2,P01859,,3.42,3.42,Asn176,,,,,
 Immunoglobulin G3,P01860,,0.58,0.58,Asn227,,,,,
 ,,,0.58,0.58,Asn322,,,,,
 Immunoglobulin G4,P01861,,0.38,0.38,Asn177,,,,,
-Immunoglobulin M,P01871,Immunity (complement system),0.5Ð2.0,1.47,Overall,,FA2BG2S1 (26Ê%); FA2G2S1 (19Ê%); Man6 (10Ê%); Man5 (6Ê%),,,"[159,Ê201,Ê202,Ê203]"
+Immunoglobulin M,P01871,Immunity (complement system),0.5ï¿½2.0,1.47,Overall,,FA2BG2S1 (26ï¿½%); FA2G2S1 (19ï¿½%); Man6 (10ï¿½%); Man5 (6ï¿½%),,,"[159,ï¿½201,ï¿½202,ï¿½203]"
 ,,,,,Asn46,,FA2BG2S1; FA2G2S1,,,
 ,,,,,Asn209,,FA2BG2S1; FA2G2S1,,,
 ,,,,,Asn272,,FA2BG2S1; FA2G2S1,,,
