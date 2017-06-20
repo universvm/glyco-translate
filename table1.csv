@@ -64,12 +64,12 @@ Beta-2-glycoprotein 1,P02749,Scavenger of negatively charged compounds,0.2,0.2,O
 ,,,,,Asn193,,A2G2S2 (49�%); A3G3S3 (35�%); A2G2S1 (8�%); A3G3S2 (7�%),"A3_, A2_",,
 ,,,,,Asn253,,A2; A3,,,
 Ceruloplasmin,P00450,Copper dependent iron oxidation (Fe2+ to Fe3+),0.15�0.96,0.355,Overall,,A2G2S2 (62.75�%); FA2G2S2 (14.5�%); A3G3S3 (13.5�%); A3G3FS3 (7.25�%),Conc_,,"[59,�103,�104,�105]"
-,,,,,Asn138,,A2G2S2�(49�%); FA2G2S2 (26�%); A3G3S3 (12�%); A3FG3S3 (10�%); FA3FG3S3 (3�%),,,
+,,,,,Asn138,,A2G2S2� (49�%); FA2G2S2 (26�%); A3G3S3 (12�%); A3FG3S3 (10�%); FA3FG3S3 (3�%),,,
 ,,,,,Asn227,0�%,---,,,
-,,,,,Asn358,,A2G2S2�(83�%); FA2G2S2 (12�%); A3G3S3 (5�%),,,
-,,,,,Asn397,,A2G2S2�(73�%); A3G3S3 (17�%); A3FG3S3 (6�%); FA2G2S2 (4�%),,,
+,,,,,Asn358,,A2G2S2� (83�%); FA2G2S2 (12�%); A3G3S3 (5�%),,,
+,,,,,Asn397,,A2G2S2� (73�%); A3G3S3 (17�%); A3FG3S3 (6�%); FA2G2S2 (4�%),,,
 ,,,,,Asn588,,---,,,
-,,,,,Asn762,,A2G2S2�(46�%); A3G3S3 (20�%); FA2G2S2 (16�%); A3FG3S3 (13�%); FA3FG3S3 (2�%); A4G4S4 (1�%); A4FG4S4 (1�%),,,
+,,,,,Asn762,,A2G2S2� (46�%); A3G3S3 (20�%); FA2G2S2 (16�%); A3FG3S3 (13�%); FA3FG3S3 (2�%); A4G4S4 (1�%); A4FG4S4 (1�%),,,
 ,,,,,Asn926,0�%,---,,,
 Fibrinogen,,Coagulation (platelet aggregation),2.0�4.5,3,Overall,,A2G2S1(6) (53�%); A2G2S2(6) (33�%),,,"[59,�60,�67,�70,�106,�107,�108,�109,�110,�111,�112,�113,�114,�115,�116,�117]"
 Fibrinogen alpha-chain,P02671,,,,Asn453,0�%,---,,,
