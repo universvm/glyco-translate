@@ -1,5 +1,5 @@
 # glycosetta-stone
-Translating from Oxford Glycan Notation to Glycosuite 14 Digit Composition: because one standard format in Biology is impossible.
+Translating from Oxford Glycan Notation to Glycosuite 14 Digit Composition.
 
 
 # Relevant XKCD
