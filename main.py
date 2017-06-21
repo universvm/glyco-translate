@@ -2,10 +2,10 @@
 #hexose, hexnac, deoxyhexose, neuac, neugc, pentose, so3h (sulfate), po3h (phosphate), kdn, kdo, hexa #Hexuronate, methyl acetyl, other
 # RULES:
 # A, antennary = hexnac (glucnac)
+# B, bisection = hexnac (glucnac)
 # G, galactosylation = hexose (galactose)
 # S, sialynation = neuac (or NeuGC)
 # F, fucosylation = deoxyhexose (deoxygalactose)
-# B, bisection = hexnac (glucnac)
 # core = 2 hexnac (glucnac) + 3 hexose (mannose)
 # Core F = 2 hexnac (glucnac) + 3 hexose (mannose) + 1 deoxyhexose (deoxygalactose)
 # Man = hexoses
@@ -54,7 +54,43 @@ def translator(oxglycan):
                 print("53000000000000")
             else:
                 gly = re.split(r'([A-Z][a-z]*\d *)', g1[0])
-                print(gly)
+                translated = ""
+                #In every glycan, there's a core composed of  2 hexnac (glucnac) + 3 hexose (mannose)
+                G = 3 #Hexose
+                AB = 2 #Hexnac
+                F = 0 #Deoxyhexose
+                S = 0 #NeuAC
+                for gls in gly:
+                    if "G" in gls:
+                        g = gls.split("G")
+                        if g[1] == "":
+                            G += 1
+                        else:
+                            G += int(g[1])
+                    elif "A" in gls:
+                        a = gls.split("A")
+                        AB += int(a[1])
+                    elif "B" in gls:
+                        b = gls.split("B")
+                        if b[1] == "":
+                            AB += 1
+                        else:
+                            AB += int(b[1])
+                    elif "F" in gls:
+                        f = gls.split("F")
+                        if f[1] == "":
+                            F += 1
+                        else:
+                            F += int(f[1])
+                    elif "S" in gls:
+                        s = gls.split("S")
+                        S += int(s[1])
+                #out of the loop, do the conversion:
+                translated += ''.join([str(G), str(AB),str(F), str(S)])
+                translated += "0" * (14 -len(translated))
+                print(translated)
+
+table.readline()#Skipping the header
 for line in table:
     line = line.split(",")
     glycans = ''.join([x for x in line[7] if ord(x) < 128]) #Thanks to: http://snipplr.com/view/57881/
