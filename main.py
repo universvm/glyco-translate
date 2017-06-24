@@ -8,7 +8,7 @@
 # F, fucosylation = deoxyhexose (deoxygalactose)
 # core = 2 hexnac (glucnac) + 3 hexose (mannose)
 # Core F = 2 hexnac (glucnac) + 3 hexose (mannose) + 1 deoxyhexose (deoxygalactose)
-# Man = hexoses
+# Man = X hexoses +2 HEXNAC
 # Hy = 3 hexnac + 5 hexose
 # M = 2 hexnac + X hexose
 # C = 4 hexnac + 3 hexose
@@ -33,10 +33,13 @@ def translator(oxglycan):
                 # print(man)
                 if "-" in man[1]: # if there is a range
                     num = man[1].split("-")
+                    num[0] += "2"
                     num[0] += "0" *(14 -len(num[0]))
+                    num[1] += "2"
                     num[1] += "0" *(14 -len(num[1]))
                     print(num[0]);print(num[1])
                 else: #else man[1] is a single integer
+                    man[1] += "2"
                     man[1] += "0" *(14 -len(man[1]))
                     print(man[1])
             elif "M" in g1[0]:
@@ -45,6 +48,7 @@ def translator(oxglycan):
                     num = ma[1].split("-")
                     num[0] += "2"
                     num[0] += "0" *(14 -len(num[0]))
+                    num[1] += "2"
                     num[1] += "0" *(14 -len(num[1]))
                     print(num[0]);print(num[1])
                 else: #else there is no range
@@ -95,4 +99,5 @@ for line in table:
     line = line.split(",")
     glycans = ''.join([x for x in line[7] if ord(x) < 128]) #Thanks to: http://snipplr.com/view/57881/
     glycans = glycans.split("; ")
+    print(glycans)
     translator(glycans)
